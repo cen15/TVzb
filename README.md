@@ -121,7 +121,6 @@ CETV4,http://39.134.19.251:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtua
 重庆卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225745/index.m3u8?IASHttpSessionId=OTT
 辽宁卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225779/index.m3u8?IASHttpSessionId=OTT
 
-东南卫视,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225739/1/index.m3u8?fmt=ts2hls
 海峡卫视,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil?icpid=88888888
 云南卫视,http://coocaa-ynbit-ws.ifengli.com:2381/live/ynws-hd/1.m3u8
 云南卫视,http://coocaa-ynbit-ws.ifengli.com:2384/live/ynws-hd/1.m3u8
@@ -155,6 +154,7 @@ CETV4,http://39.134.19.251:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtua
 南方卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225748/index.m3u8?IASHttpSessionId=OTT
 崇左综合,http://lives.myun.tv/live/5p91o270.m3u8
 三沙卫视,http://pull2.ssws.tv/live/SswsTV20210803.m3u8
+
 数字频道,#genre#
 CHC动作电影,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 CHC家庭影院,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
