@@ -128,7 +128,6 @@ CETV4,http://39.134.19.251:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtua
 广西卫视,http://live-cdn.gxxw.com/tv/gxtvlive/index.m3u8
 海南卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil
 贵州卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226126/10000100000000060000000002434541_0.smil
-四川卫视,http://coocaa-ynbit-ws.ifengli.com:2381/live/scws-hd/1.m3u8
 四川卫视,http://coocaa-ynbit-ws.ifengli.com:2384/live/scws-hd/1.m3u8
 康巴卫视,http://scgctvshow.sctv.com/hdlive/kangba/index.m3u8
 陕西卫视,http://111.0.27.21/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
