@@ -43,6 +43,7 @@ CCTV4中文美洲,http://39.134.196.155/hlsmgsplive.miguvideo.com:8080/migu/kail
 CCTV4中文欧洲,http://39.134.196.155/hlsmgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?ProgramID=&encrypt=1
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
+CCTV兵器科技,http://124.232.233.16:6610/000000001001/201500000313/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 CCTV世界地理,http://39.134.196.155/hlsmgsplive.miguvideo.com:8080/ws_v/2018/sjdl/sjdl711/1000/index.m3u8?&encrypt=
 CCTV兵器科技,http://39.134.196.155/hlsmgsplive.miguvideo.com:8080/ws_v/2018/gfjs/gfjs711/1000/index.m3u8?&encrypt=
 CCTV央视台球,http://39.134.196.155/hlsmgsplive.miguvideo.com:8080/ws_v/2018/ystq/ystq711/1000/index.m3u8?&encrypt=
@@ -98,6 +99,8 @@ CETV4,http://39.134.19.251:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtua
 江西卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225669/index.m3u8?IASHttpSessionId=OTT
 安徽卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225671/index.m3u8?IASHttpSessionId=OTT
 山东卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225672/index.m3u8?IASHttpSessionId=OTT
+山西卫视,http://liveflash.sxrtv.com/live/sxwshd.flv
+山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8
 山西卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225785/index.m3u8?IASHttpSessionId=OTT
 天津卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225675/index.m3u8?IASHttpSessionId=OTT
 重庆卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225679/index.m3u8?IASHttpSessionId=OTT
@@ -177,9 +180,7 @@ Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
 星空卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
 星空卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=234&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 星空卫视,https://itv.ahcme.edu.cn/hls/startv.m3u8
-星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
 体育赛事,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240590_1/playlist.m3u8?CONTENTID=00000110240590_1
 军事,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240311_1/playlist.m3u8?CONTENTID=00000110240311_1
@@ -212,6 +213,12 @@ Y+,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221
 求索纪录,http://39.134.134.85/000000001000/6000000002000032052/1.m3u8
 求索生活,http://39.134.134.85/000000001000/6000000002000003382/1.m3u8
 求索动物,http://39.134.134.85/000000001000/6000000002000010046/1.m3u8
+银河爆笑喜剧,http://111.63.77.77/gitv_live/GITV-HB-1/GITV-HB-1.m3u8?p=GITV&area=HBYD
+银河劲爆动作,http://111.63.77.77/gitv_live/GITV-HB-2/GITV-HB-2.m3u8?p=GITV&area=HBYD
+银河热门动画,http://111.63.77.77/gitv_live/GITV-HB-3/GITV-HB-3.m3u8?p=GITV&area=HBYD
+银河战争风云,http://111.63.77.77/gitv_live/GITV-HB-7/GITV-HB-7.m3u8?p=GITV&area=HBYD
+银河家庭影院,http://111.63.77.77/gitv_live/GITV-HB-8/GITV-HB-8.m3u8?p=GITV&area=HBYD
+银河大咖影院,http://111.63.77.77/gitv_live/GITV-HB-9/GITV-HB-9.m3u8?p=GITV&area=HBYD
 
 SiTV,#genre#
 SiTV都市剧场,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
@@ -243,6 +250,7 @@ SiTV东方财经,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/
 NewTV,#genre#
 东北热剧,http://39.134.65.162/PLTV/88888888/224/3221225679/index.m3u8
 欢乐剧场,http://39.134.65.162/PLTV/88888888/224/3221225682/index.m3u8
+东北热剧,http://39.134.66.162/PLTV/88888888/224/3221225679/index.m3u8
 
 东北热剧,http://39.135.140.227:6610/PLTV/88888888/224/3221226202/2/index.m3u8
 欢乐剧场,http://39.135.140.227:6610/PLTV/88888888/224/3221226210/2/index.m3u8
@@ -348,7 +356,7 @@ IPTV6+,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240007_1/playlist.m3u8
 IPTV8+,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240125_1/playlist.m3u8?CONTENTID=00000110240125_1
 IPTV少儿动画,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240092_1/playlist.m3u8?CONTENTID=00000110240092_1
 IPTV收视指南,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240225_1/playlist.m3u8?CONTENTID=00000110240225_1
-IPTV法治,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240096_1/playlist.m3u8?CONTENTID=00000110240282_1
+IPTV法治,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240096_1/playlist.m3u8?CONTENTID=00000110240096_1
 IPTV热播剧场,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240089_1/playlist.m3u8?CONTENTID=00000110240089_1
 IPTV相声小品,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240006_1/playlist.m3u8?CONTENTID=00000110240006_1
 IPTV经典电影,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240090_1/playlist.m3u8?CONTENTID=00000110240090_1
