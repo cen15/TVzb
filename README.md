@@ -348,7 +348,7 @@ IPTV6+,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240007_1/playlist.m3u8
 IPTV8+,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240125_1/playlist.m3u8?CONTENTID=00000110240125_1
 IPTV少儿动画,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240092_1/playlist.m3u8?CONTENTID=00000110240092_1
 IPTV收视指南,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240225_1/playlist.m3u8?CONTENTID=00000110240225_1
-IPTV法治,http://live.aishang.ctlcdn.com/00000110240096_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+IPTV法治,http://116.211.159.14/live.aishang.ctlcdn.com/00000110240096_1/playlist.m3u8?CONTENTID=00000110240282_1
 IPTV热播剧场,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240089_1/playlist.m3u8?CONTENTID=00000110240089_1
 IPTV相声小品,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240006_1/playlist.m3u8?CONTENTID=00000110240006_1
 IPTV经典电影,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240090_1/playlist.m3u8?CONTENTID=00000110240090_1
