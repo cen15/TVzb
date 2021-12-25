@@ -80,7 +80,6 @@ CCTV央视台球,http://[2001:250:4801::430:89]/hls/hls184a574.m3u8
 CCTV女性时尚,http://[2001:250:4801::430:89]/hls/hls184a522.m3u8
 CCTV央视文化精品,http://[2001:250:4801::430:89]/hls/hls184a520.m3u8
 
-
 CETV1,http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8
 CETV2,http://39.134.19.251:6610/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV3,http://39.134.19.251:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -88,9 +87,7 @@ CETV4,http://39.134.19.251:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtua
 
 卫视,#genre#
 北京卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225651/index.m3u8?IASHttpSessionId=OTT
-
 北京卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225664/index.m3u8?IASHttpSessionId=OTT
-
 冬奥纪实,http://39.135.32.28:6610/PLTV/77777777/224/3221225667/index.m3u8?IASHttpSessionId=OTT
 江苏卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225636/index.m3u8?IASHttpSessionId=OTT
 山东卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225642/index.m3u8?IASHttpSessionId=OTT
