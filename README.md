@@ -348,7 +348,7 @@ IPTV6+,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240007_1/playlist.m3u8
 IPTV8+,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240125_1/playlist.m3u8?CONTENTID=00000110240125_1
 IPTV少儿动画,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240092_1/playlist.m3u8?CONTENTID=00000110240092_1
 IPTV收视指南,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240225_1/playlist.m3u8?CONTENTID=00000110240225_1
-IPTV法治,http://116.211.159.14/live.aishang.ctlcdn.com/00000110240096_1/playlist.m3u8?CONTENTID=00000110240282_1
+IPTV法治,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240096_1/playlist.m3u8?CONTENTID=00000110240282_1
 IPTV热播剧场,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240089_1/playlist.m3u8?CONTENTID=00000110240089_1
 IPTV相声小品,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240006_1/playlist.m3u8?CONTENTID=00000110240006_1
 IPTV经典电影,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240090_1/playlist.m3u8?CONTENTID=00000110240090_1
