@@ -139,7 +139,6 @@ CETV4,http://39.134.19.251:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtua
 甘肃卫视,http://39.134.39.37/PLTV/88888888/224/3221226240/index.m3u8
 宁夏卫视,http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?IASHttpSessionId=
 吉林卫视,http://coocaa-ynbit-ws.ifengli.com:2384/live/jlws-hd/1.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 青海卫视,http://live.geermurmt.com/qhws/sd/live.m3u8
 青海卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225705/index.m3u8?IASHttpSessionId=OTT
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
@@ -174,11 +173,7 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
 Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
 
-星空卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
-星空卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=234&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=0&amp;Pcontent_id=8114.m3u8
-星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 星空卫视,https://itv.ahcme.edu.cn/hls/startv.m3u8
-星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
 体育赛事,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240590_1/playlist.m3u8?CONTENTID=00000110240590_1
 军事,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240311_1/playlist.m3u8?CONTENTID=00000110240311_1
 动画,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240335_1/playlist.m3u8?CONTENTID=00000110240335_1
@@ -218,31 +213,6 @@ Y+,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221
 银河大咖影院,http://111.63.77.77/gitv_live/GITV-HB-9/GITV-HB-9.m3u8?p=GITV&area=HBYD
 
 SiTV,#genre#
-SiTV都市剧场,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
-SiTV欢笑剧场,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8
-SiTV动漫秀场,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
-SiTV游戏风云,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
-SiTV新视觉,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-SiTV劲爆体育,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
-SiTV魅力足球,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
-SiTV极速汽车,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
-SiTV生活时尚,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
-SiTV全纪实,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
-SiTV幸福彩,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/xfchd/4000000/mnf.m3u8
-SiTV法治天地SD,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/fztd/1300000/mnf.m3u8
-SiTV金色频道SD,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/jingsepd/1300000/mnf.m3u8
-SiTV七彩戏剧SD,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/qcxj/1300000/mnf.m3u8
-SiTV东方财经,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/dfcj/1300000/mnf.m3u8
-上海ICS外语,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
-上海东方影视,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
-上海五星体育,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-上海第一财经,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
-上海新闻综合,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
-上海纪实人文,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
-上海哈哈炫动,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
-上海都市,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
-上海教育,http://103.18.208.185/liveplay-kk.rtxapp.com/live/program/live/setv/1300000/mnf.m3u8
-上海教育,http://live2018.setv.sh.cn/setv/programme10_lud.m3u8?auth_key=4790122411-0-0-f6c20db506e028f2f4d4a546c3f9631b
 
 NewTV,#genre#
 东北热剧,http://39.134.65.162/PLTV/88888888/224/3221225679/index.m3u8
@@ -362,67 +332,8 @@ IPTV野外,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240095_1/playlist.
 IPTV魅力时尚,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240091_1/playlist.m3u8?CONTENTID=00000110240091_1
 
 CIBN,#genre#
-CIBN经典剧场,http://211.94.219.178:18080/PLTV/68/224/3221226402/index.m3u8
-CIBN古装剧场,http://211.94.219.178:18080/PLTV/68/224/3221226400/index.m3u8
-CIBN动画乐园,http://211.94.219.178:18080/PLTV/68/224/3221226406/index.m3u8
-CIBN真人秀,http://211.94.219.178:18080/PLTV/68/224/3221226416/index.m3u8
-CIBN骄阳剧场,http://211.94.219.178:18080/PLTV/68/224/3221226423/index.m3u8
-CIBN综合,http://211.94.219.178:18080/PLTV/68/224/3221226420/index.m3u8
-CIBN流金岁月,http://211.94.219.178:18080/PLTV/68/224/3221226425/index.m3u8
-CIBN纪录片,http://211.94.219.178:18080/PLTV/68/224/3221226437/index.m3u8
-CIBN风尚运动,http://211.94.219.178:18080/PLTV/68/224/3221226429/index.m3u8
-CIBN微电影,http://211.94.219.178:18080/PLTV/68/224/3221226441/index.m3u8
-
-
-CIBN骄阳剧场,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231745/index.m3u8
-CIBN综合,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231696/index.m3u8
-CIBN风尚运动,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231684/index.m3u8
-CIBN流金岁月,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231664/index.m3u8
-CIBN古装剧场,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231625/index.m3u8
-CIBN真人秀,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231589/index.m3u8
-CIBN微电影,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231586/index.m3u8
-CIBN时尚生活,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231489/index.m3u8
-CIBN纪录片,http://117.148.179.161/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231594/index.m3u8
 
 咪咕轮播,#genre#
-喜剧联盟,http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
-高分影院,http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
-怀旧老片,http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
-午夜剧场,http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
-云上电影,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
-每日科幻电影,http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
-TVB剧场,http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
-新片放映,http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
-4K剧场,http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
-军旅剧场,http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
-红色谍战,http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8
-黄金剧场,http://117.148.179.183/PLTV/88888888/224/3221231637/index.m3u8
-每日荐影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
-武侠剧场,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
-武侠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
-爱情公寓,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367
-追剧少女,http://112.74.200.9:88/tv000000/m3u8.php?/migu/617432318
-盗墓笔记,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625525181
-高分影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
-高能烧脑时刻,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625542365
-高清大片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943678
-金庸,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
-谍战剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/634274665
-怀旧老片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/621640582
-欢笑剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623674859
-黄金剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625155140
-僵尸剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627033504
-试胆大会,http://112.74.200.9:88/tv000000/m3u8.php?/migu/637483721
-经典贺岁片,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774662
-每日荐影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198751
-军旅剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625643517
-喜剧联盟,http://112.74.200.9:88/tv000000/m3u8.php?/migu/637444830
-新片放映,http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952
-每日科幻电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625204865
-咪咕暑期剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198692
-云上电影,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337
-少林剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625526423
-午夜剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/625759558
 
 BesTV轮播,#genre#
 童年国漫,http://bp-caster.bestv.com.cn/486/1/video.m3u8
