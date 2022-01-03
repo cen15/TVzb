@@ -97,7 +97,6 @@ CCTV兵器科技,http://[2001:250:4801::430:89]/hls/hls184a573.m3u8
 CCTV央视台球,http://[2001:250:4801::430:89]/hls/hls184a574.m3u8
 CCTV女性时尚,http://[2001:250:4801::430:89]/hls/hls184a522.m3u8
 CCTV文化精品,http://[2001:250:4801::430:89]/hls/hls184a520.m3u8
-
 卫视,#genre#
 北京卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225651/index.m3u8?IASHttpSessionId=OTT
 北京卫视,http://39.135.32.28:6610/PLTV/77777777/224/3221225664/index.m3u8?IASHttpSessionId=OTT
