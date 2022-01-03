@@ -49,10 +49,6 @@ CCTV兵器科技,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&prot
 CCTV文化精品,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000573&playtoken=ABCDEFGH&auth=no
 CCTV高尔夫网球,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000574&playtoken=ABCDEFGH&auth=no
 CCTV风云足球,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000576&playtoken=ABCDEFGH&auth=no
-CCTV风云音乐,http://tyzb8081.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb01.php?id=DOXxinyiHD_7000
-CCTV央视台球,http://tyzb8081.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb01.php?id=DOXyinglunHD_7000
-CCTV电视指南,http://tyzb8081.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb01.php?id=dianshizhinan_1500
-CCTV卫生健康,http://tyzb8081.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb01.php?id=weishengjiankang_1500
 CCTV兵器科技,http://124.232.233.16:6610/000000001001/201500000313/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 CCTV风云音乐,http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
 CCTV风云足球,http://42.176.185.28:9901/tsfile/live/1017_1.m3u8
