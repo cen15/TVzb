@@ -76,6 +76,7 @@ CCTV女性时尚,http://117.148.179.167/PLTV/88888888/224/3221231598/index.m3u8
 CCTV央视台球,http://117.148.179.167/PLTV/88888888/224/3221231616/index.m3u8
 CCTV高尔夫网球,http://117.148.179.160/PLTV/88888888/224/3221231619/index.m3u8
 CCTV文化精品,http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8
+CETV1,http://111.11.121.184:6610/030000001001/jiaoyutv/1.m3u8?channel-id=ystenlive
 CETV1,http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8
 CETV2,http://39.134.19.251:6610/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV3,http://39.134.19.251:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
