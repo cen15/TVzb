@@ -121,7 +121,7 @@ CETV4,http://39.134.19.251:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtua
 云南卫视,http://coocaa-ynbit-ws.ifengli.com:2381/live/ynws-hd/1.m3u8
 云南卫视,http://coocaa-ynbit-ws.ifengli.com:2384/live/ynws-hd/1.m3u8
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
-广西卫视,http://39.130.202.115:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8
+广西卫视,http://39.130.202.82:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8
 广西卫视,http://live-cdn.gxxw.com/tv/gxtvlive/index.m3u8
 海南卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226048/10000100000000060000000002296889_0.smil
 贵州卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226126/10000100000000060000000002434541_0.smil
