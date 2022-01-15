@@ -356,8 +356,19 @@ iHOT,#genre#
 爱世界,http://39.134.134.85/0000000000001001/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
 
 IPTV,#genre#
+IPTV3+,http://39.134.39.39/PLTV/88888888/224/3221226338/index.m3u8
+
+IPTV5+HD,http://39.134.19.248:6610/yinhe/2/ch00000090990000001592/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+IPTV5+HD,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
+
+IPTV6+,http://39.134.39.39/PLTV/88888888/224/3221226269/index.m3u8
+IPTV8+,http://39.134.39.39/PLTV/88888888/224/3221226271/index.m3u8
+IPTV相声小品,http://39.134.39.39/PLTV/88888888/224/3221226260/index.m3u8
+IPTV野外,http://39.134.39.39/PLTV/88888888/224/3221226262/index.m3u8
+IPTV法治,http://39.134.39.39/PLTV/88888888/224/3221226258/index.m3u8
+IPTV谍战剧场,http://39.134.39.39/PLTV/88888888/224/3221226256/index.m3u8
 IPTV3+,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240093_1/playlist.m3u8?CONTENTID=00000110240093_1
-IPTV5+,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
 IPTV6+,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240007_1/playlist.m3u8?CONTENTID=00000110240007_1
 IPTV8+,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240125_1/playlist.m3u8?CONTENTID=00000110240125_1
 IPTV少儿动画,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240092_1/playlist.m3u8?CONTENTID=00000110240092_1
@@ -379,6 +390,7 @@ IPTV魅力时尚,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240091_1/pla
 
 IPTV电竞,http://124.232.233.14:6610/000000001001/201500000306/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 IPTV4K,http://124.232.233.14:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
 爱奇艺,#genre#
 周末影院,http://host496323.us.ooqr.com/pltv/iqiyi.php?id=180042122&tk=95d73e5d
 激情燃烧岁月,http://host496323.us.ooqr.com/pltv/iqiyi.php?id=180048022&tk=2f2e6c9d
