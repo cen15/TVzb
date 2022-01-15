@@ -40,6 +40,7 @@ CCTV15,http://39.135.32.29:6610/PLTV/77777777/224/3221225830/index.m3u8?IASHttpS
 CCTV17,http://39.135.32.29:6610/PLTV/77777777/224/3221225833/index.m3u8?IASHttpSessionId=OTT
 CCTV16,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226880/index.m3u8
 CCTV4中文美洲,http://39.134.196.155/hlsmgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv4meihd/57/index.m3u8?ProgramID=&encrypt=1
+CCTV4中文欧洲,http:/39.135.129.162/PLTV/88888888/224/3221226731/1.m3u8
 CCTV4中文欧洲,http://39.134.196.155/hlsmgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?ProgramID=&encrypt=1
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV第一剧场,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000569&playtoken=ABCDEFGH&auth=no
@@ -194,7 +195,6 @@ Y+,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 南国都市,https://aplay.gztv.com/sec/shenghuos.m3u8
 剧场,http://223.110.228.6:80/ott.js.chinamobile.com/PLTV/3/224/3221227594/index.m3u8
 精彩体育,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
-星卫电影台,http://data.3g.yy.com/live/hls/29900720/29900720
 精彩体育,http://39.134.19.251:6610/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 精彩电影,http://39.134.19.248:6610/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 精彩电视剧,http://39.134.19.251:6610/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
