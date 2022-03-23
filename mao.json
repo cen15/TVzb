@@ -1,3 +1,4 @@
+###
 {
   "sites": [ 
 
@@ -10,16 +11,39 @@
   "quickSearch": 0,
   "filterable": 1
 },
-{"key":"csp_appysv2_天空影视","name":"天空影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tkys.tv/xgapp.php/v1/"},
 {"key":"csp_appysv2_月色影视","name":"月色影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://69ty.cc/mogai_api.php/v1.vod"},
+ ],
 
 "lives": [
     {
-      "name": "极客",
-      "type": 1,
-      "url": "https://sbsb.i8k.cc/?url="
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "redirect",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9mZW54aWFuZ21pLmNvZGluZy5uZXQvcC96Yi9kL256eS9naXQvcmF3L21hc3Rlci9tYW9saXZlLnR4dA=="
+          ]
+        }
+      ]
     }
   ],
+  "parses": [
+    {
+      "name": "点此解析",
+      "type": 2,
+      "url": "Parallel"
+    },
+    {
+      "name": "无名",
+      "type": 1,
+      "url": "https://api.zakkpa.com:8888/analysis/json/?uid=91&my=gjksuvCHIJLRS01268&url="
+    },
+    {
+      "name": "蓝光视讯",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+    },
+],
 
   "flags": [
     "youku",
