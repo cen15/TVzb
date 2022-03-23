@@ -4,49 +4,12 @@
 
 {"key":"csp_appysv2_天空影视V2","name":"天空影视V2(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
 {"key":"csp_appysv2_星空影视","name":"星空影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xkys.tv/xgapp.php/v1/"},
-{
-  "key": "csp_Auete",
-  "name": "Auete(爬虫)",
-  "type": 3,
-  "api": "csp_Auete",
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 1
-},
-{
-  "key": "csp_Cokemv",
-  "name": "Cokemv(爬虫)",
-  "type": 3,
-  "api": "csp_Cokemv",
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 1
-},
-  {
-    "key": "csp_Nekk",
-    "name": "9E看看(爬虫)",
-    "type": 3,
-    "api": "csp_Nekk",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 1
-  },
-      {
-    "key": "csp_Enlienli",
-    "name": "嗯哩嗯哩(爬虫)",
-    "type": 3,
-    "api": "csp_Enlienli",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 1
-    },
 
 {"key":"csp_appysv2_天空影视","name":"天空影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tkys.tv/xgapp.php/v1/"},
 
 {"key":"csp_appysv2_月色影视","name":"月色影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://69ty.cc/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_优视影视","name":"优视影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.ysys.asia/lvdou_api.php/v1.vod"},
-{"key":"csp_appysv2_影阅阁","name":"影阅阁(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://221.236.18.12:665/api.php/v1.vod"},
-{"key":"csp_appysv2_追剧吧","name":"追剧吧(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://zhuiju8.vip/api.php/v1.vod"}
+{"key":"csp_xpath_smdyy","name":"神马影院(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://youmostfear.coding.net/p/Fan/d/mao/git/raw/master/xpath/smdyy.json" },
+
  ],
 
 "lives": [
@@ -200,11 +163,6 @@
       "name": "我爱电影1",
       "type": 1,
       "url": "https://vip.kpjx.cc/api/?key=3sKKYzWSxLmX1hnsMs&url="
-    },
-    {
-      "name": "Yoyo",
-      "type": 1,
-      "url": "http://47.100.138.210:91/home/api?type=ys&uid=1947441&key=bcfgjmuwCEORSVX237&url="
     },
     {
       "name": "蜜果TV",
