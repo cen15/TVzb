@@ -133,48 +133,8 @@
      "ext":"https://sharertv.coding.net/p/mao/d/mao/git/raw/master/xpath/pianba.json"
 },
 
+
 {"key":"csp_appysv2_月色影视","name":"月色影视(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://69ty.cc/mogai_api.php/v1.vod"},
-{"key":"畅视影视","name":"畅视影视","type":1,"api":"http://app.reboju.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"鱼乐资源","name":"鱼乐资源","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"哇可可影视","name":"哇可可影视","type":1,"api":"https://www.zwcoco.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"思乐影视","name":"思乐影视","type":1,"api":"https://www.4ltv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"思古影院","name":"思古影院","type":1,"api":"https://www.siguyy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"测试","name":"测试","type":1,"api":"http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"美剧星球","name":"美剧星球","type":1,"api":"https://www.meijuxq.tv/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"英皇影城资源","name":"英皇影城资源","type":1,"api":"https://www.yhyczy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"唐人街","name":"唐人街","type":0,"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml","playUrl":""},
-{"key":"晓峰影视","name":"晓峰影视","type":1,"api":"http://api.xxcr.tk/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"热映网","name":"热映网","type":1,"api":"http://hl.reying.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"爱看啦","name":"爱看啦","type":0,"api":"http://v.aik.la/api.php/provide/vod/at/xml","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"爱搜影院","name":"爱搜影院","type":1,"api":"http://yunbangcheng.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"玺心影视","name":"玺心影视","type":1,"api":"https://tvcj.arbd.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"玺娜影视","name":"玺娜影视","type":1,"api":"https://www.yuxidy.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"清欢资源","name":"清欢资源","type":1,"api":"http://free.qinghuanzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"清欢授权","name":"清欢授权","type":1,"api":"https://www.qinghuanzy.com/qinghuan.php/provide/vod/?token=m7DJcblgDs","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"聆风资源","name":"聆风资源","type":1,"api":"http://maccms.bwcxvip.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"速更资源","name":"速更资源","type":1,"api":"https://sugengzy.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"雪人官采","name":"雪人官采","type":1,"api":"https://zl.qd234.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-//{"key":"番茄资源","name":"番茄资源","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","playUrl":"https://jx.fqzy.cc/jx.php?url=","categories":[]},
-{"key":"舒渡影视","name":"舒渡影视","type":1,"api":"http://www.lovctv.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"萌果资源","name":"萌果资源","type":1,"api":"http://api.appearoo.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"嗨哆咪影视","name":"嗨哆咪影视","type":1,"api":"http://hdmys1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"想看资源","name":"想看资源","type":1,"api":"https://m3u8.xiangkanapi.com/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"椰子资源","name":"椰子资源","type":1,"api":"https://zy.gbxy.net.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"随便看电影","name":"随便看电影","type":1,"api":"https://baobei666.com/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"嘀哩嘀哩","name":"嘀哩嘀哩","type":1,"api":"http://api.diliktv.xyz/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"酷点资源","name":"酷点资源","type":1,"api":"https://api.kuapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"樱花资源","name":"樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"趣看","name":"趣看","type":1,"api":"http://qkmp4.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"飘花电影","name":"飘花电影","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"飘花影院","name":"飘花影院","type":1,"api":"https://www.2mjtt.com/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"橘猫影视","name":"橘猫影视","type":1,"api":"http://www.zitv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"融兴bilibili","name":"融兴bilibili","type":1,"api":"https://bilibili.rongxingvr.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"麒麟资源","name":"麒麟资源","type":1,"api":"http://www.qilinzyz.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"迅播","name":"迅播qgvod","type":0,"api":"https://www.qgvod.com/api.php/provide/vod/at/xml/","playUrl":"https://jx.renrenmi.cc/?url=","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"毒蜥蜴影視","name":"毒蜥蜴影視","type":0,"api":"https://www.duxiyi.com/api.php/provide/vod/at/xml/","playUrl":"https://jx.renrenmi.cc/?url=","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"一点影视","name":"一点影视","type":1,"api":"https://m3u8.movurl.xyz/api.php/provide/vod/","playUrl":"https://jx.movurl.top/?url=","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"星一官采","name":"星一官采","type":1,"api":"https://gcku.suboyun.vip/api.php/provide/vod/","playUrl":"https://www.xing1.vip/player/dp/?url=","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"剧大神","name":"剧大神","type":1,"api":"http://judashen.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
  ],
 
 "lives": [
@@ -274,11 +234,16 @@
       "url": "https://supervip.rongxingvr.cn:8866/api/?key=nKn4eO8giUKSe8jxZU&url="
     },
     {
+      "name": "Yoyo1",
+      "type": 1,
+      "url": "https://json.legendwhb.cn/json.php/?url="
+    },
+    {
       "name": "星影相随1",
       "type": 1,
       "url": "https://xt.gbxy.net.cn/api/?key=7gAmfK5typSVsg2Qnr&url="
     },
-    {
+   {
       "name": "爱影视",
       "type": 1,
       "url": "http://14.17.115.200:520/json.php?id=6e5LaYyU5JLs9aRawyGKwPkH7ZFr701z&url="
