@@ -1,5 +1,5 @@
 {
-    "spider":"https://gitee.com/CCSHCoder/APP/raw/master/custom_spider.jar",
+    "spider":"https://github.com/drizzle888/CatVodTVSpider/blob/master/jar/custom_spider.jar",
     "sites":[
         {
             "key":"老鸭福利",
